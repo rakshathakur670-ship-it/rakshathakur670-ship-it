@@ -1,61 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=RAKSHA%20THAKUR&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:111827,50:312e81,100:7c3aed"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=RAKSHA%20THAKUR&fontSize=52&fontAlignY=35&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:312e81,100:7c3aed"/>
 
-### B.Tech Computer Science Engineering | Aspiring Software Developer | Video Editor
+<h2>B.Tech Computer Science Engineering</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Software+Development;Data+Structures+%26+Algorithms;Web+Development;Video+Editing;Always+Learning+%7C+Always+Building"/>
+<p>
+Software Developer • Problem Solver • Video Editor • Creative Technologist
+</p>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+software+with+purpose;Learning+DSA+one+problem+at+a+time;Exploring+Web+%26+Full-Stack+Development;Turning+ideas+into+digital+experiences;Code+%7C+Create+%7C+Improve"/>
 
----
+<br><br>
 
-## ABOUT ME
-
-I am a Computer Science Engineering student interested in both technology
-and creative digital work.
-
-My interests combine software development, problem solving, web technologies,
-video editing, and visual storytelling.
-
-- B.Tech Computer Science Engineering student
-- Aspiring Software Developer
-- Video Editor and Digital Content Creator
-- Currently strengthening Java and Data Structures & Algorithms
-- Interested in Web Development and Database Technologies
-- Exploring creative editing and visual storytelling
-
----
-
-## TECHNICAL SKILLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,mysql,mongodb,git,github,vscode&perline=6"/>
+<img src="https://komarev.com/ghpvc/?username=rakshathakur670-ship-it&label=PROFILE+VIEWS&color=7c3aed&style=flat-square"/>
 
 </div>
 
 ---
 
-## CREATIVE SKILLS
+# ABOUT ME
 
-<div align="center">
+I am a Computer Science Engineering student interested in building
+technology while exploring creative digital work.
 
-Video Editing &nbsp; • &nbsp; Visual Storytelling &nbsp; • &nbsp;
-Photography &nbsp; • &nbsp; Content Creation
-
-</div>
-
----
-
-## CURRENTLY LEARNING
+My interests combine software development, problem solving,
+web technologies, databases, video editing and visual storytelling.
 
 ```text
-Java
-Data Structures & Algorithms
-Object-Oriented Programming
-Web Development
-DBMS & SQL
-Git & GitHub
-Full-Stack Development
-Video Editing
+Education        B.Tech Computer Science Engineering
+Primary Focus    Software Development
+Learning         Java | DSA | DBMS | Web Development
+Creative Work    Video Editing | Photography | Content Creation
+Mindset          Learn | Build | Improve
