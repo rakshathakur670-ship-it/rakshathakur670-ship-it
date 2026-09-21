@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=RAKSHA%20THAKUR&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:020617,40:1e1b4b,70:4c1d95,100:7c3aed"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=RAKSHA%20THAKUR&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=0:020617,35:1e1b4b,65:4c1d95,100:7c3aed"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=950&lines=B.Tech+Computer+Science+Engineering;Aspiring+Software+Developer;Java+%7C+DSA+%7C+DBMS+%7C+Web+Development;Problem+Solver+%7C+Project+Builder;Video+Editor+%7C+Photographer;Learning+in+Public;Turning+Ideas+Into+Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=950&lines=B.Tech+Computer+Science+Engineering;Aspiring+Software+Developer;Java+%7C+DSA+%7C+DBMS+%7C+Web+Development;Problem+Solver+%7C+Project+Builder;Learning+in+Public;Video+Editor+%7C+Photographer;Turning+Ideas+Into+Practical+Solutions"/>
 
 <br><br>
 
 <a href="https://github.com/rakshathakur670-ship-it?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_MY_WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rakshathakur670/">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rakshathakur670@gmail.com?subject=Video%20Editing%20Inquiry">
-<img src="https://img.shields.io/badge/🎬_VIDEO_EDITING-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rakshathakur670@gmail.com">
-<img src="https://img.shields.io/badge/✉️_CONTACT-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="mailto:rakshathakur670@gmail.com?subject=Video%20Editing%20Inquiry">
+<img src="https://img.shields.io/badge/VIDEO_EDITING-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -32,109 +32,120 @@
 
 ---
 
+# ABOUT ME
+
+Hello, I'm **Raksha Thakur**, a **B.Tech Computer Science Engineering student at Sandip University** with a strong interest in software development, web development, problem solving, and technology.
+
+I am building my technical foundation through consistent coding practice, academic learning, projects, internships, technical events, and experimentation.
+
+My primary areas of interest include:
+
+* Software Development
+* Java Development
+* Web Development
+* Frontend Development
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* SQL and MySQL
+* Problem Solving
+* Git and GitHub
+* Practical Project Development
+
+Alongside technology, I also enjoy **video editing, photography, creative digital content, and visual storytelling**.
+
+My goal is to combine technical knowledge with creativity and build useful, practical, and meaningful digital experiences.
+
 <div align="center">
 
-<a href="#-who-am-i">
-<img src="https://img.shields.io/badge/WHO_AM_I-111827?style=flat-square"/>
-</a>
-&nbsp;
-<a href="#-what-i-do">
-<img src="https://img.shields.io/badge/WHAT_I_DO-312E81?style=flat-square"/>
-</a>
-&nbsp;
-<a href="#-tech-stack">
-<img src="https://img.shields.io/badge/TECH_STACK-4338CA?style=flat-square"/>
-</a>
-&nbsp;
-<a href="#-currently-learning">
-<img src="https://img.shields.io/badge/LEARNING-5B21B6?style=flat-square"/>
-</a>
-&nbsp;
-<a href="#-projects--learning">
-<img src="https://img.shields.io/badge/PROJECTS-6D28D9?style=flat-square"/>
-</a>
-&nbsp;
-<a href="#-video-editing--creative-work">
-<img src="https://img.shields.io/badge/VIDEO_EDITING-7C3AED?style=flat-square"/>
-</a>
-&nbsp;
-<a href="#-github-activity">
-<img src="https://img.shields.io/badge/ACTIVITY-4C1D95?style=flat-square"/>
-</a>
+### LEARN → PRACTICE → BUILD → DEBUG → DOCUMENT → SHARE → IMPROVE
 
 </div>
 
 ---
 
-# 👋 WHO AM I?
-
-<div align="center">
-
-### `Student Developer • Problem Solver • Builder • Creative`
-
-</div>
-
-Hi, I'm **Raksha Thakur**, a **B.Tech Computer Science Engineering student** interested in software development, problem solving, web technologies and creative digital work.
-
-I am continuously developing my technical skills through coding practice, projects, internships, technical activities and experimentation.
-
-I believe learning becomes more valuable when knowledge is not only consumed but also **implemented, documented and shared**.
-
-This GitHub profile is my **public learning journey**.
-
-<div align="center">
-
-### `LEARN → PRACTICE → BUILD → DOCUMENT → SHARE → IMPROVE`
-
-</div>
-
----
-
-# ⚡ WHAT I DO
+# EDUCATION
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 💻 SOFTWARE DEVELOPMENT
+### B.TECH COMPUTER SCIENCE ENGINEERING
 
-```text
-Java
-C
-C++
-Python
-JavaScript
-HTML
-CSS
+**Sandip University**
+
+Current Semester: **3rd Semester**
+
+Area: **Computer Science & Engineering**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ACADEMIC FOCUS
+
+Programming Fundamentals
 Data Structures
-Algorithms
 Object-Oriented Programming
-DBMS
-SQL
-Git
-GitHub
-Web Development
-Problem Solving
-```
+Database Management
+Web Technologies
+Computer Science Fundamentals
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# WHAT I DO
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## SOFTWARE DEVELOPMENT
+
+I am continuously strengthening my programming fundamentals and learning how to design, implement, debug, and document software applications.
+
+My current development areas include:
+
+* Java
+* C
+* C++
+* Python
+* JavaScript
+* Object-Oriented Programming
+* Data Structures
+* Algorithms
+* File Handling
+* Exception Handling
+* Problem Solving
+* Application Development
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎨 CREATIVE TECHNOLOGY
+## WEB DEVELOPMENT
 
-```text
-Video Editing
-Photography
-Visual Storytelling
-Reels
-Short-Form Content
-Creative Editing
-Digital Content
-Visual Presentation
-Social Media Content
-```
+I am learning how to create interactive and practical web applications using frontend technologies and databases.
+
+My web development learning includes:
+
+* HTML
+* CSS
+* JavaScript
+* Responsive layouts
+* Frontend development
+* APIs
+* Database connectivity
+* SQL
+* MySQL
+* PHP fundamentals
+* Full-stack concepts
 
 </td>
 
@@ -143,87 +154,7 @@ Social Media Content
 
 ---
 
-# 🧠 MY DEVELOPER MINDSET
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### 📚
-
-**LEARN**
-
-Understand the concept.
-
-</td>
-
-<td align="center">
-
-### 💻
-
-**PRACTICE**
-
-Write the code.
-
-</td>
-
-<td align="center">
-
-### 🛠️
-
-**BUILD**
-
-Create something useful.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🐛
-
-**DEBUG**
-
-Understand the problem.
-
-</td>
-
-<td align="center">
-
-### 📝
-
-**DOCUMENT**
-
-Record what I learned.
-
-</td>
-
-<td align="center">
-
-### 🌍
-
-**SHARE**
-
-Make knowledge useful.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🛠️ TECH STACK
+# TECHNICAL SKILLS
 
 <div align="center">
 
@@ -233,13 +164,19 @@ Make knowledge useful.
 
 <br><br>
 
-### WEB & DATABASE
+### WEB TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
 <br><br>
 
-### TOOLS & DEVELOPMENT
+### DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+<br><br>
+
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea"/>
 
@@ -247,260 +184,404 @@ Make knowledge useful.
 
 ---
 
-# 📚 CURRENTLY LEARNING
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1900&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=☕+Core+Java+%26+OOP;🧠+Data+Structures+%26+Algorithms;🗄️+DBMS+%26+SQL;🌐+Web+Development;⚡+JavaScript;🚀+Full-Stack+Development;🔧+Git+%26+GitHub;💡+Software+Engineering"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-Currently_Learning-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DSA-Improving-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DBMS_&_SQL-Practicing-312E81?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Web_Development-Building-0EA5E9?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🔄 MY DEVELOPMENT WORKFLOW
-
-<div align="center">
-
-```text
-                         ┌──────────────┐
-                         │    LEARN     │
-                         │ Understand   │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   PRACTICE   │
-                         │ Code + Solve │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │    BUILD     │
-                         │   Projects   │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   DOCUMENT   │
-                         │ Notes + Docs │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │    SHARE     │
-                         │   GitHub     │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │   IMPROVE    │
-                         │ Learn Again  │
-                         └──────┬───────┘
-                                │
-                                └──────────► 🔁
-```
-
-</div>
-
----
-
-# 🌱 LEARNING IN PUBLIC
-
-<div align="center">
-
-### I DON'T JUST UPLOAD CODE.
-
-### I DOCUMENT WHAT I LEARN.
-
-</div>
-
-Whenever I learn something new, I try to convert it into something practical and useful.
-
-```text
-NEW CONCEPT
-     ↓
-UNDERSTAND
-     ↓
-WRITE CODE
-     ↓
-EXPERIMENT
-     ↓
-SOLVE PROBLEMS
-     ↓
-BUILD PROJECT
-     ↓
-DOCUMENT
-     ↓
-SHARE
-     ↓
-IMPROVE
-     ↓
-REPEAT 🔄
-```
-
-My repositories may include:
-
-`DSA Solutions` • `Java Programs` • `Mini Projects` • `Web Projects` • `DBMS Practice` • `SQL Queries` • `Technical Notes` • `Experiments` • `Internship Work`
-
-> **If I learn something useful, I try to make it useful for someone else too.**
-
----
-
-# 🚀 PROJECTS & LEARNING
-
-I use projects to convert concepts into practical applications.
+# TECHNOLOGY BREAKDOWN
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<th>AREA</th>
+<th>TECHNOLOGIES / CONCEPTS</th>
+</tr>
 
-### ☕ JAVA
+<tr>
+<td>Programming</td>
+<td>Java, C, C++, Python, JavaScript</td>
+</tr>
 
-Core Java
-OOP
-Exception Handling
-Collections
-File Handling
-Application Logic
+<tr>
+<td>Java</td>
+<td>Core Java, OOP, Inheritance, Exception Handling, Arrays, Strings, Collections, File Handling</td>
+</tr>
 
-<br>
+<tr>
+<td>Web</td>
+<td>HTML, CSS, JavaScript, Frontend Development</td>
+</tr>
 
-<a href="https://github.com/rakshathakur670-ship-it?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-7C3AED?style=flat-square&logo=github"/>
-</a>
+<tr>
+<td>Database</td>
+<td>DBMS, SQL, MySQL, Database Concepts</td>
+</tr>
+
+<tr>
+<td>DSA</td>
+<td>Arrays, Strings, Searching, Sorting, Algorithms, Problem Solving</td>
+</tr>
+
+<tr>
+<td>Tools</td>
+<td>Git, GitHub, VS Code, Eclipse, IntelliJ IDEA</td>
+</tr>
+
+<tr>
+<td>Development</td>
+<td>Debugging, Version Control, Project Documentation</td>
+</tr>
+
+</table>
+
+---
+
+# CURRENTLY LEARNING
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Core+Java+%26+Object-Oriented+Programming;Data+Structures+%26+Algorithms;DBMS+%26+SQL;Web+Development;JavaScript;Git+%26+GitHub;Full-Stack+Development;Software+Engineering+Fundamentals"/>
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### CURRENT FOCUS
+
+```text id="a9z4kq"
+Core Java              ███████████████░░░░░  75%
+
+Data Structures        ████████████░░░░░░░░  60%
+
+DBMS + SQL             █████████████░░░░░░░  65%
+
+Web Development        █████████████░░░░░░░  65%
+
+JavaScript              ██████████░░░░░░░░░░  50%
+
+Git + GitHub            ████████████████░░░░  80%
+```
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%">
 
-### 🌐 WEB
+### NEXT TARGETS
 
-HTML
-CSS
-JavaScript
-Frontend
-APIs
-Database Integration
+```text id="9a3d7k"
+Advanced Java
 
-<br>
+Advanced DSA
 
-<a href="https://github.com/rakshathakur670-ship-it?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECTS-2563EB?style=flat-square&logo=github"/>
-</a>
+Full-Stack Development
 
-</td>
+REST APIs
 
-<td width="33%" valign="top">
+Software Architecture
 
-### 🧠 DSA
+Open Source
 
-Arrays
-Strings
-Searching
-Sorting
-Algorithms
-Problem Solving
+Real-World Applications
 
-<br>
-
-<a href="https://github.com/rakshathakur670-ship-it?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_SOLUTIONS-6D28D9?style=flat-square&logo=github"/>
-</a>
+Technical Interview Preparation
+```
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
+
+# LEARNING IN PUBLIC
+
+I believe that learning becomes more valuable when it is implemented, documented, and shared.
+
+Instead of keeping every experiment private, I use GitHub as a place to record my development journey.
+
+```text id="g6v4qs"
+              NEW CONCEPT
+                   |
+                   v
+              UNDERSTAND
+                   |
+                   v
+                PRACTICE
+                   |
+                   v
+               WRITE CODE
+                   |
+                   v
+              EXPERIMENT
+                   |
+                   v
+               DEBUG IT
+                   |
+                   v
+              BUILD PROJECT
+                   |
+                   v
+              DOCUMENT IT
+                   |
+                   v
+                SHARE
+                   |
+                   v
+               IMPROVE
+                   |
+                   +---------> REPEAT
+```
+
+My repositories may contain:
+
+`Java Programs`
+`DSA Solutions`
+`Web Projects`
+`DBMS Practice`
+`SQL Queries`
+`Mini Applications`
+`Internship Tasks`
+`Technical Experiments`
+`Project Documentation`
+
+---
+
+# PROJECT DEVELOPMENT
+
+I use projects to convert theoretical concepts into practical applications.
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### JAVA PROJECTS
+
+Core Java applications
+
+Object-oriented programs
+
+File handling projects
+
+Logic-building applications
+
+Console applications
+
+Problem-solving programs
+
+</td>
+
+<td width="33%" valign="top">
+
+### WEB PROJECTS
+
+HTML/CSS interfaces
+
+JavaScript applications
+
+Frontend projects
+
+Database-connected applications
+
+Interactive mini projects
+
+Practical web experiments
+
+</td>
+
+<td width="33%" valign="top">
+
+### PROBLEM SOLVING
+
+LeetCode solutions
+
+DSA practice
+
+Algorithm implementation
+
+Coding challenges
+
+Logic-building exercises
+
+Programming fundamentals
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/rakshathakur670-ship-it?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🎬 VIDEO EDITING & CREATIVE WORK
+# SELECTED PROJECT AREAS
+
+### JobShield AI
+
+An AI-focused project designed around identifying potentially fraudulent internship or job-related messages and helping users evaluate suspicious opportunities.
+
+Core concept:
+
+`Detect → Analyze → Investigate → Decide`
+
+Focus areas:
+
+* AI-assisted analysis
+* Scam detection
+* User safety
+* Chat-based interaction
+* Practical problem solving
+
+---
+
+### UPI Guard
+
+A financial safety concept focused on analyzing transaction-related information and identifying potentially suspicious activity.
+
+Workflow:
+
+`Analyze → Detect → Investigate → Decide → Act`
+
+Focus areas:
+
+* Transaction intelligence
+* Risk detection
+* Automation concepts
+* User safety
+* AI-assisted decision support
+
+---
+
+### Student / Academic Applications
+
+I also work on smaller applications and learning projects involving:
+
+* Student Management
+* Task Management
+* Study Planning
+* Railway Reservation
+* Weather Applications
+* To-Do Applications
+* Mini Java Applications
+* Database Projects
+* DSA Practice
+
+<a href="https://github.com/rakshathakur670-ship-it?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+# INTERNSHIP EXPERIENCE
+
+<table>
+
+<tr>
+<th>ORGANIZATION</th>
+<th>DOMAIN</th>
+<th>EXPERIENCE</th>
+</tr>
+
+<tr>
+<td><b>Oasis Infobyte</b></td>
+<td>Java Development</td>
+<td>Practical programming tasks and internship learning</td>
+</tr>
+
+<tr>
+<td><b>CodeSoft</b></td>
+<td>Development</td>
+<td>Technical tasks and project-based learning</td>
+</tr>
+
+<tr>
+<td><b>Codec Technologies</b></td>
+<td>Technology / Development</td>
+<td>Learning through assigned technical tasks</td>
+</tr>
+
+</table>
+
+My internship experiences are helping me understand how programming concepts are applied beyond classroom exercises.
+
+---
+
+# COMPUTER SCIENCE INTERESTS
 
 <div align="center">
 
-### HAVE A VIDEO YOU WANT EDITED?
+<table>
 
-I also work on **video editing and creative digital content**, including reels, short-form videos and social-media content.
+<tr>
+<td align="center">PROGRAMMING</td>
+<td align="center">DATA STRUCTURES</td>
+<td align="center">ALGORITHMS</td>
+</tr>
 
-<br>
+<tr>
+<td align="center">DATABASES</td>
+<td align="center">WEB DEVELOPMENT</td>
+<td align="center">SOFTWARE DEVELOPMENT</td>
+</tr>
 
-<img src="https://img.shields.io/badge/🎬_VIDEO_EDITING-7C3AED?style=for-the-badge"/>
+<tr>
+<td align="center">PROBLEM SOLVING</td>
+<td align="center">AI CONCEPTS</td>
+<td align="center">OPEN SOURCE</td>
+</tr>
 
-<img src="https://img.shields.io/badge/🎞️_REELS-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/✨_CREATIVE_EDITS-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📱_SHORT_FORM_CONTENT-4338CA?style=for-the-badge"/>
+</table>
 
 </div>
 
-<table>
-<tr>
+---
 
-<td width="50%" valign="top">
+# VIDEO EDITING AND CREATIVE WORK
 
-### 🎥 VIDEO EDITING
+<div align="center">
 
-* Reels & Short Videos
-* Social Media Videos
-* Video Enhancement
-* Music Synchronization
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=700&color=C4B5FD&center=true&vCenter=true&width=850&lines=VIDEO+EDITING+%7C+REELS+%7C+CREATIVE+CONTENT;Technology+is+not+my+only+creative+space."/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/VIDEO_EDITING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REELS-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PHOTOGRAPHY-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATIVE_CONTENT-312E81?style=for-the-badge"/>
+
+</div>
+
+Alongside programming, I work on creative digital content and enjoy experimenting with video editing and photography.
+
+My creative interests include:
+
+* Video editing
+* Reels
+* Short-form videos
+* Social media content
+* Visual storytelling
 * Transitions
-* Text & Typography
-* Short-Form Content
-* Creative Edits
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 CREATIVE WORK
-
-* Visual Storytelling
+* Text and typography
+* Music synchronization
+* Creative presentation
 * Photography
-* Social Media Content
-* Creative Presentation
-* Cinematic-Style Edits
-* Digital Content
-* Visual Effects
-* Content Formatting
-
-</td>
-
-</tr>
-</table>
+* Nature photography
 
 <div align="center">
 
-### 📩 WANT YOUR VIDEO EDITED?
+### NEED A VIDEO EDITED?
 
-Have a video, reel or creative project you want edited?
+Have a video, reel, short-form project, or creative content that needs editing?
 
-<br><br>
+<br>
 
 <a href="mailto:rakshathakur670@gmail.com?subject=Video%20Editing%20Inquiry&body=Hi%20Raksha%2C%0A%0AI%20would%20like%20to%20discuss%20a%20video%20editing%20project.%0A%0AProject%20details%3A%0A">
-<img src="https://img.shields.io/badge/✉️_EMAIL_ME_FOR_VIDEO_EDITING-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL_ME_FOR_VIDEO_EDITING-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -511,53 +592,112 @@ Have a video, reel or creative project you want edited?
 
 ---
 
-# 🗺️ DEVELOPMENT ROADMAP
+# DEVELOPMENT ROADMAP
 
 <div align="center">
 
-```text
-                    COMPUTER SCIENCE
-                           │
-                           ▼
-                PROGRAMMING FUNDAMENTALS
-                           │
-                 ┌─────────┴─────────┐
-                 ▼                   ▼
-               JAVA                C / C++
-                 │
-                 ▼
-                OOP
-                 │
-                 ▼
-          DSA + ALGORITHMS
-                 │
-                 ▼
-             DBMS + SQL
-                 │
-                 ▼
-          WEB DEVELOPMENT
-                 │
-                 ▼
-             JAVASCRIPT
-                 │
-                 ▼
-        FULL-STACK DEVELOPMENT
-                 │
-                 ▼
-          REAL-WORLD PROJECTS
-                 │
-                 ▼
-             OPEN SOURCE
-                 │
-                 ▼
-        SOFTWARE DEVELOPMENT
+```text id="d4q8rm"
+PROGRAMMING FUNDAMENTALS
+          |
+          v
+       CORE JAVA
+          |
+          v
+          OOP
+          |
+          v
+       DSA + ALGORITHMS
+          |
+          v
+       DBMS + SQL
+          |
+          v
+    WEB DEVELOPMENT
+          |
+          v
+      JAVASCRIPT
+          |
+          v
+    BACKEND CONCEPTS
+          |
+          v
+   FULL-STACK DEVELOPMENT
+          |
+          v
+    REAL-WORLD PROJECTS
+          |
+          v
+      OPEN SOURCE
+          |
+          v
+ SOFTWARE DEVELOPMENT
 ```
 
 </div>
 
 ---
 
-# 📊 GITHUB ACTIVITY
+# DEVELOPER WORKFLOW
+
+<table>
+<tr>
+
+<td width="20%" align="center">
+
+### 01
+
+LEARN
+
+Understand the concept.
+
+</td>
+
+<td width="20%" align="center">
+
+### 02
+
+PRACTICE
+
+Write and test code.
+
+</td>
+
+<td width="20%" align="center">
+
+### 03
+
+BUILD
+
+Create something practical.
+
+</td>
+
+<td width="20%" align="center">
+
+### 04
+
+DOCUMENT
+
+Record the learning.
+
+</td>
+
+<td width="20%" align="center">
+
+### 05
+
+SHARE
+
+Make it useful.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# GITHUB ANALYTICS
 
 <div align="center">
 
@@ -571,126 +711,185 @@ Have a video, reel or creative project you want edited?
 
 ---
 
-# 🐍 CONTRIBUTION JOURNEY
+# CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🎯 CURRENT FOCUS
+# CURRENT FOCUS
 
-<div align="center">
+<table>
 
-| Area               |     Focus     |
-| :----------------- | :-----------: |
-| ☕ Java             |  🔄 Learning  |
-| 🧠 DSA             |  🔄 Improving |
-| 🗄️ DBMS & SQL     | 🔄 Practicing |
-| 🌐 Web Development |  🔄 Building  |
-| ⚡ JavaScript       |  🔄 Learning  |
-| 🚀 Full-Stack      |  🌱 Exploring |
-| 🛠️ Projects       |  🚀 Building  |
-| 🔧 Git & GitHub    | 🚀 Practicing |
-| 🌍 Open Source     |  🌱 Exploring |
+<tr>
+<th>AREA</th>
+<th>STATUS</th>
+<th>OBJECTIVE</th>
+</tr>
 
-</div>
+<tr>
+<td>Java</td>
+<td>Learning</td>
+<td>Strengthen programming and OOP fundamentals</td>
+</tr>
+
+<tr>
+<td>DSA</td>
+<td>Practicing</td>
+<td>Improve problem-solving ability</td>
+</tr>
+
+<tr>
+<td>DBMS</td>
+<td>Learning</td>
+<td>Understand database concepts and SQL</td>
+</tr>
+
+<tr>
+<td>Web Development</td>
+<td>Building</td>
+<td>Create practical web applications</td>
+</tr>
+
+<tr>
+<td>JavaScript</td>
+<td>Learning</td>
+<td>Build interactive web experiences</td>
+</tr>
+
+<tr>
+<td>Git & GitHub</td>
+<td>Practicing</td>
+<td>Improve version control and collaboration</td>
+</tr>
+
+<tr>
+<td>Projects</td>
+<td>Building</td>
+<td>Convert concepts into practical applications</td>
+</tr>
+
+</table>
 
 ---
 
-# 🎨 BEYOND CODE
+# BEYOND CODE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📸_PHOTOGRAPHY-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🎬_VIDEO_EDITING-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🎞️_REELS-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌿_NATURE-4338CA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🎨_CREATIVE_WORK-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PHOTOGRAPHY-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIDEO_EDITING-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REELS-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NATURE-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATIVE_WORK-312E81?style=for-the-badge"/>
 
 </div>
 
-I enjoy combining **technology and creativity** to create useful, meaningful and visually engaging digital experiences.
+I enjoy combining technology and creativity to create practical and visually engaging digital experiences.
 
 ---
 
-# 💡 MY APPROACH
+# MY DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
 ### DON'T JUST COPY CODE.
 
-**UNDERSTAND IT.**
+Understand it.
 
 <br>
 
 ### DON'T JUST BUILD PROJECTS.
 
-**LEARN FROM THEM.**
+Learn from them.
 
 <br>
 
 ### DON'T JUST LEARN.
 
-**SHARE WHAT YOU DISCOVER.**
+Document what you discover.
+
+<br>
+
+### DON'T JUST DOCUMENT.
+
+Share it with others.
+
+<br>
+
+### DON'T JUST SHARE.
+
+Keep improving.
 
 </div>
 
 ---
 
-# 🔗 QUICK LINKS
+# GOALS
+
+My long-term goal is to grow into a strong software developer by continuously improving my fundamentals and gaining practical development experience.
+
+I am working toward:
+
+* Strong programming fundamentals
+* Better DSA and problem solving
+* Real-world project experience
+* Strong Java development skills
+* Full-stack development knowledge
+* Better database understanding
+* Open-source contribution
+* Professional software development practices
+* Strong GitHub portfolio
+* Continuous technical learning
+
+---
+
+# QUICK LINKS
 
 <div align="center">
 
 <a href="https://github.com/rakshathakur670-ship-it">
-<img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rakshathakur670-ship-it?tab=repositories">
-<img src="https://img.shields.io/badge/📂_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rakshathakur670/">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rakshathakur670@gmail.com">
-<img src="https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🤝 LET'S CONNECT
+# LET'S CONNECT
 
 <div align="center">
 
-### Open to learning, collaboration, projects and meaningful technical conversations.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Open+to+learning%2C+collaboration%2C+projects+and+technical+conversations."/>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/rakshathakur670/">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rakshathakur670@gmail.com">
-<img src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEND_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="mailto:rakshathakur670@gmail.com?subject=Video%20Editing%20Inquiry">
-<img src="https://img.shields.io/badge/🎬_VIDEO_EDITING_INQUIRY-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rakshathakur670-ship-it?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIDEO_EDITING_INQUIRY-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -701,21 +900,7 @@ I enjoy combining **technology and creativity** to create useful, meaningful and
 
 <br>
 
-### 🌱 LEARNING
-
-### 💻 BUILDING
-
-### 🧠 SOLVING
-
-### 📝 DOCUMENTING
-
-### 🌍 SHARING
-
-### 🚀 GROWING
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=One+concept+at+a+time.;One+project+at+a+time.;One+commit+at+a+time.;Always+learning.+Always+building."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Learn.;Practice.;Build.;Document.;Share.;Improve.;Repeat."/>
 
 <br><br>
 
